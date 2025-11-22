@@ -1,0 +1,8 @@
+{
+  "name": "viagg-tx8-suporte",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "echo \"no lint\""
+  }
+}
